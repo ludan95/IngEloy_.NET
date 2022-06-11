@@ -1,0 +1,6 @@
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaEntidadComercio\bin\Debug\capaEntidadComercio.dll
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaEntidadComercio\bin\Debug\capaEntidadComercio.pdb
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaEntidadComercio\obj\Debug\capaEntidadComercio.csproj.AssemblyReference.cache
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaEntidadComercio\obj\Debug\capaEntidadComercio.csproj.CoreCompileInputs.cache
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaEntidadComercio\obj\Debug\capaEntidadComercio.dll
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaEntidadComercio\obj\Debug\capaEntidadComercio.pdb

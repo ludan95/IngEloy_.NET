@@ -1,0 +1,9 @@
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\bin\Debug\capaNegocioComercio.dll
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\bin\Debug\capaNegocioComercio.pdb
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\bin\Debug\capaEntidadComercio.dll
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\bin\Debug\capaEntidadComercio.pdb
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\obj\Debug\capaNegocioComercio.csproj.AssemblyReference.cache
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\obj\Debug\capaNegocioComercio.csproj.CoreCompileInputs.cache
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\obj\Debug\capaNegocioComercio.csproj.CopyComplete
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\obj\Debug\capaNegocioComercio.dll
+C:\Users\Kingston\Desktop\IngEloy\comercioArtesaniasAdmin\capaNegocioComercio\obj\Debug\capaNegocioComercio.pdb
